@@ -1,3 +1,5 @@
 Mars is red.
 Mars seems to be a very dry planet.
-mars has cannals.
+Mars has cannals.
+Mars has two moons. 
+Probes on Mars may have found water.
